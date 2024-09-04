@@ -12,10 +12,10 @@ so there is quite a bit of refactoring and commenting that needs doing.
 ## To Do
 - [x] Import old code
 - [x] Refactor old code
-- [x] remove unnecessary bitwise operation, this is python, not c
+- [x] Remove unnecessary bitwise operation, this is python, not c
 - [x] Comment old code
-- [ ] separate functions into files
-- [ ] create classes
+- [ ] Separate functions into files
+- [ ] Create classes
 - [ ] Rewrite doc strings
 
 - [ ] Fix the functionality of the existing features
